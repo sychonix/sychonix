@@ -24,7 +24,7 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
             <a href="www.sychonix.my.id" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://github.com/sychonix/profile/blob/main/sychonixx.png">
+            <img height="80px" src="sychonixx.png">
             </td>
         </tr>
     </tbody>
