@@ -42,7 +42,7 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
 <br />
 <div align="top">
   <div style="display: flex; align-items: flex-start;">                
- <p><img align="down" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychonix&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sychonix" /></
+ <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychonix&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sychonix" /></
 
 
 
