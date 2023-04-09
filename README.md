@@ -39,7 +39,7 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychonix&theme=dark" alt="sychonix" /></p>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychonix&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sychonix" /></
+                    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychonix&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sychonix" /></
 <p align="center">
 
 
