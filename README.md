@@ -12,7 +12,8 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
 <p align="left"> 
 
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/803665234799362088) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sychonix) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kibasuki1803) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sychonixx)
 
 - ✉️ How to reach me **sychonixx@gmail.com**
 <h3 align="left">Connect with me:</h3>
