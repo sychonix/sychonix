@@ -40,9 +40,7 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
 
 <p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=sychonix&theme=dark" alt="sychonix" /></p>
 
-<div align="top">                
-<p><img align="down" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychonix&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sychonix" /></
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodexcapital&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
 </div>
 
 
