@@ -44,7 +44,6 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychonix&theme=dark" alt="sychonix" /></p>
 
----
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
