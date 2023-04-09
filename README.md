@@ -1,16 +1,53 @@
-### Hi there 👋
+<div align="center">
+<img
+  src="https://github.com/sychonix/profile/blob/main/IMG_20230401_030558.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+I'm an independent node runner and testnet enthusiast for blockchain projects.
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>C O N T A C T &nbsp; U S </i></h2>
+<p align="left"> 
 
-<!--
-**sychonix/sychonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ How to reach me **sychonixx@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sychonixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sychonixx" height="30" width="40" /></a>
+<a href="https://instagram.com/sychonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sychonix" height="30" width="40" /></a>
+<a href="https://discord.gg/803665234799362088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="803665234799362088" height="30" width="40" /></a>
+</p>
+
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Website</strong></span><br><br />
+            <a href="www.sychonix.my.id" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://github.com/sychonix/profile/blob/main/sychonixx.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sychonix&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sychonix" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sychonix&show_icons=true&theme=dark&locale=en" alt="sychonix" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sychonix&theme=dark" alt="sychonix" /></p>
+
+
+
+
