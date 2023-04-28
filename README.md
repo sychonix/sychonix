@@ -23,7 +23,7 @@ I'm an independent node runner and testnet enthusiast for blockchain projects.
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
-            <a href="www.sychonix.my.id" target="_blank" rel="noopener noreferrer">
+            <a href="https://sychonix.me" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="sychonixx.png">
             </td>
         </tr>
