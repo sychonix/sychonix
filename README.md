@@ -2,7 +2,8 @@
 <img
   src="IMG_20230401_030558.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-yyyyy<img align="top" src="https://komarev.com/ghpvc/?username=vinjan23&color=blueviolet"<br />
+<img align="top" src="https://komarev.com/ghpvc/?username=vinjan23&color=blueviolet"<br />
+  
   I'm an independent node runner and testnet enthusiast for blockchain projects.<br />
  
 
