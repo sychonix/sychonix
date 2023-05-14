@@ -4,7 +4,9 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 I'm an independent node runner and testnet enthusiast for blockchain projects.</b></h4>
  
-  <img align="center" src="https://komarev.com/ghpvc/?username=vinjan23&color=blueviolet"/>
+  <div align="center" 
+<img
+src="https://komarev.com/ghpvc/?username=vinjan23&color=blueviolet"/>
   
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
