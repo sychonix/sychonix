@@ -5,7 +5,6 @@
 I'm an independent node runner and testnet enthusiast for blockchain projects.</b></h4>
  
   <div align="center" 
-<img
 src="https://komarev.com/ghpvc/?username=vinjan23&color=blueviolet"/>
   
 <div align="center">
