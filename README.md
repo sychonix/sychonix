@@ -3,7 +3,8 @@
   src="IMG_20230401_030558.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <img align="top" 
-  
+### sychonix
+
 > I'm an independent node runner and testnet enthusiast for blockchain projects.
  
 
