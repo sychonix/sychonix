@@ -4,7 +4,7 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <img align="top" 
   
- > I'm an independent node runner and testnet enthusiast for blockchain projects.<br />
+ > "I'm an independent node runner and testnet enthusiast for blockchain projects."<br />
  
 
 
