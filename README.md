@@ -46,17 +46,7 @@
 </div>
 <p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=sychonix&show_icons=true&theme=dark&locale=en" alt="sychonix" /></p>
 
-<p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=sychonix&theme=dark" alt="sychonix" /></p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodexcapital&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
-</div>
-
-
-
-
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 
 
