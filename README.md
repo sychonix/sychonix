@@ -8,13 +8,6 @@
 
 > I'm an independent node runner and testnet enthusiast for blockchain projects. 
  
- {
-    "name": "sychonix",
-    "githubUsername": "sychonix",
-    "imageUrl": "https://user-images.githubusercontent.com/85981735/129255772-5bac726e-d98e-4eb4-8c9f-c2206b72c976.png",
-    "issueNumber": 1
-  }
-
   
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
@@ -42,6 +35,11 @@
         </tr>
     </tbody>
 </table>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
