@@ -4,14 +4,6 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <img align="top" 
 
-<p align="center">
-  <img src="intro.gif" alt="" />
-</p>
-<p align="center">
-  <a href="[https://pjc0247.github.io/gif-for-readme/](https://github.com/sychonix/sychonix/blob/main/your_cool_intro.gif)">HERE</a>
-</p>
-
-
   ### 
 
 > I'm an independent node runner and testnet enthusiast for blockchain projects. 
