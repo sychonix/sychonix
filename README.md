@@ -37,16 +37,5 @@
 </table>
 
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
-  </div>
-
-</div>
-<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=sychonix&show_icons=true&theme=dark&locale=en" alt="sychonix" /></p>
-
-
-
-
 
 
