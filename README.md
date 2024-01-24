@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="banner.jpg"
+  src="sychonix.jpg"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <img align="top" 
 
