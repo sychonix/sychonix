@@ -55,7 +55,7 @@ source $HOME/.bash_profile
 
 echo $(go version) && sleep 1
 
-source <(curl -s https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/utils/dependencies_install)
+source <(curl -s https://raw.githubusercontent.com/sychonix/sychonix/main/autointall/dependencies_install)
 
 printGreen "4. Installing binary..." && sleep 1
 # download binary
