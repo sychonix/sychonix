@@ -64,7 +64,7 @@ rm -rf symphony
 git clone https://github.com/Orchestra-Labs/symphony
 cd symphony
 git checkout v0.2.1
-make build
+make install
 echo done
 
 printGreen "5. Configuring and init app..." && sleep 1
