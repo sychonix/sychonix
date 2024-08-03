@@ -29,7 +29,7 @@
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
-            <a href="https://sychonix.me" target="_blank" rel="noopener noreferrer">
+            <a href="https://sychonix.com" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="sychonixx.png">
             </td>
         </tr>
