@@ -18,7 +18,7 @@
   <h2><i>C O N T A C T &nbsp; U S </i></h2>
 <p align="left"> 
 
-- ✉️ How to reach me **sychonixx@gmail.com**
+- ✉️ How to reach me **contact@sychonix.com**
 <h3 align="left">Connect with me:</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/803665234799362088) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sychonixx)
