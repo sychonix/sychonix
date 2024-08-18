@@ -6,7 +6,7 @@
 
   ### 
 
-> I'm an independent node runner and testnet enthusiast for blockchain projects. 
+> Securing networks as a reliable validator. 
  
   
 <div align="center">
