@@ -37,6 +37,26 @@ perform_step() {
     fi
 }
 
+
+perform_step() {
+    N1=$'\n'
+    echo -n "${@: -1}: "
+
+    # Menampilkan output lengkap agar bisa di-debug jika terjadi error
+    OUTPUT=$(${@:1:$#-1} 2>&1)
+    echo "$OUTPUT"
+
+    if [[ $? -ne 0 ]]; then
+        text_color $BOLD$RED FAILED
+        echo -e "${N1}Step failed. Output of error is:${N1}${N1}$OUTPUT"
+        echo -e "${BRED}Press Enter to exit the installer.${NC}"
+        read
+        exit 1
+    else
+        text_color $BOLD$GREEN OK
+    fi
+}
+
 # Function to display a notification box
 notification_box() {
     local message="$1"
